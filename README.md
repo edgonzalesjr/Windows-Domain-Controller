@@ -6,21 +6,16 @@ This tutorial is a walk through of setting up of Windows Domain Controller. Visi
 
 <h2>Environment Used</h2>
 
-<b>Windows 10 Pro</b> (22H2)
+<b>Windows Server 2019 Standard Evaluation (Note: This evaluation edition expires in 180 days.)</b>
 <p align="center">
-<img src="https://i.imgur.com/ouMoLz0.jpg" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://i.imgur.com/fKXJsL7.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<p align="center">
- Motherboard virtualization supported and enabled<br/>
-<img src="https://i.imgur.com/SjjO4vV.png" height="40%" width="40%" alt="Virtualization Enabled"/>
-<br/>
-
  
-<h2>Program installation:</h2>
+<h2>Program setup:</h2>
 
 <p align="center">
-Run the installer:<br/>
-<img src="https://i.imgur.com/LjQWujF.png" height="15%" width="15%" alt="Run installer"/>
+While Server Manager is running:<br/>
+<img src="https://i.imgur.com/9zT9FF6.png" height="60%" width="60%" alt="Run installer"/>
 <br />
 Start of installation, click Next button:<br />
 <img src="https://i.imgur.com/h0JlwqQ.png" height="40%" width="40%" alt="Run installer"/>
