@@ -14,7 +14,7 @@ This tutorial is a walk through of setting up of Windows Domain Controller. Visi
 <h2>Program setup:</h2>
 
 <p align="center">
-While Server Manager is running:<br/>
+While Server Manager is running, click Add Roles and Features:<br/>
 <img src="https://i.imgur.com/9zT9FF6.png" height="60%" width="60%" alt="Run installer"/>
 <br />
 Start of installation, click Next button:<br />
