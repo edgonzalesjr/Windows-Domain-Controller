@@ -17,11 +17,11 @@ This tutorial is a walk through of setting up of Windows Domain Controller. Visi
 While Server Manager is running, click Add Roles and Features:<br/>
 <img src="https://i.imgur.com/9zT9FF6.png" height="60%" width="60%" alt="Run installer"/>
 <br />
-Start of installation, click Next button:<br />
-<img src="https://i.imgur.com/h0JlwqQ.png" height="40%" width="40%" alt="Run installer"/>
+Select your server name in Sever Selection, click Next button:<br />
+<img src="https://i.imgur.com/QW2dWD2.png" height="60%" width="60%" alt="Run installer"/>
 <br />
-Click Next button to proceed with default settings:<br />
-<img src="https://i.imgur.com/17zI2vT.png" height="40%" width="40%" alt="Run installer"/>
+Tick Click Next button to proceed with default settings:<br />
+<img src="https://i.imgur.com/TCMhE6T.png" height="40%" width="40%" alt="Run installer"/>
 <br />
 Click Yes button to install Oracle VM Virtualbox Networking feature:<br />
 <img src="https://i.imgur.com/s2LgB3z.png" height="40%" width="40%" alt="Run installer"/>
