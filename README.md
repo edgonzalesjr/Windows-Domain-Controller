@@ -41,7 +41,9 @@ Leave the default settings in DNS Server, click Next button:<br />
 Click Install button to confirm installation selections:<br />
 <img src="https://i.imgur.com/SG7j2af.png" height="70%" width="70%" alt="Run installer"/>
 <br />
-
+Let the Installation progress run:<br />
+<img src="https://i.imgur.com/BqshACE.png" height="70%" width="70%" alt="Run installer"/>
+<br />
 
 <h2>Program walk-through:</h2>
 
