@@ -20,26 +20,26 @@ While Server Manager is running, click Add Roles and Features:<br/>
 Click Next button in Before you begin:<br />
 <img src="https://i.imgur.com/0GHizEH.png" height="70%" width="70%" alt="Run installer"/>
 <br />
-Select Role-based or featur-based installation in Installation Type, click Next button:<br />
+Select Role-based or feature-based installation in Installation Type, click Next button:<br />
 <img src="https://i.imgur.com/xZqRZuW.png" height="70%" width="70%" alt="Run installer"/>
 <br />
 Select your Server name in Server Selection, click Next button:<br />
 <img src="https://i.imgur.com/QW2dWD2.png" height="70%" width="70%" alt="Run installer"/>
 <br />
-Leave the default settings in DNS Options, click Next button:<br />
-<img src="https://i.imgur.com/53P06A4.png" height="70%" width="70%" alt="Run installer"/>
+Tick Active Directory Domain Services and DNS Server in Server Roles, click Next button:<br />
+<img src="https://i.imgur.com/TCMhE6T.png" height="70%" width="70%" alt="Run installer"/>
 <br />
-Since this is a new setup, we will select Add new forest and provide a Root domain name:<br />
-<img src="https://i.imgur.com/2E5g4K3.png" height="70%" width="70%" alt="Run installer"/>
+Leave the default settings in Features, click Next button:<br />
+<img src="https://i.imgur.com/VdW3j9p.png" height="70%" width="70%" alt="Run installer"/>
 <br />
-Leave the default settings in Paths, click Next button:<br />
-<img src="https://i.imgur.com/7J7jcHl.png" height="70%" width="70%" alt="Run installer"/>
+Leave the default settings in AD DS, click Next button:<br />
+<img src="https://i.imgur.com/OYI1e0a.png" height="70%" width="70%" alt="Run installer"/>
 <br />
-Let the Installation Progress run in Results:<br />
-<img src="https://i.imgur.com/BqshACE.png" height="70%" width="70%" alt="Run installer"/>
+Leave the default settings in DNS Server, click Next button:<br />
+<img src="https://i.imgur.com/blHz2JP.png" height="70%" width="70%" alt="Run installer"/>
 <br />
-Virtualbox is ready to host your preferred operating system:<br />
-<img src="https://i.imgur.com/wlOPsJz.png" height="60%" width="60%" alt="Run installer"/>
+Click Install button to confirm installation selections:<br />
+<img src="https://i.imgur.com/SG7j2af.png" height="70%" width="70%" alt="Run installer"/>
 <br />
 
 
