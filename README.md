@@ -15,22 +15,22 @@ This tutorial is a walk through of setting up of Windows Domain Controller. Visi
 
 <p align="center">
 While Server Manager is running, click Add Roles and Features:<br/>
-<img src="https://i.imgur.com/9zT9FF6.png" height="60%" width="60%" alt="Run installer"/>
+<img src="https://i.imgur.com/9zT9FF6.png" height="70%" width="70%" alt="Run installer"/>
 <br />
 Select your server name in Sever Selection, click Next button:<br />
-<img src="https://i.imgur.com/QW2dWD2.png" height="60%" width="60%" alt="Run installer"/>
+<img src="https://i.imgur.com/QW2dWD2.png" height="70%" width="70%" alt="Run installer"/>
 <br />
-Tick Click Next button to proceed with default settings:<br />
-<img src="https://i.imgur.com/TCMhE6T.png" height="40%" width="40%" alt="Run installer"/>
+Tick Active Directory Domain Services and DNS Server in Server Roles, click Next button:<br />
+<img src="https://i.imgur.com/TCMhE6T.png" height="70%" width="70%" alt="Run installer"/>
 <br />
-Click Yes button to install Oracle VM Virtualbox Networking feature:<br />
-<img src="https://i.imgur.com/s2LgB3z.png" height="40%" width="40%" alt="Run installer"/>
+Leave the default settings in Features, click Next button:<br />
+<img src="https://i.imgur.com/VdW3j9p.png" height="70%" width="70%" alt="Run installer"/>
 <br />
-Click Yes button to install Python Core dependencies:<br />
-<img src="https://i.imgur.com/yRzm7lp.png" height="40%" width="40%" alt="Run installer"/>
+Leave the default settings in DNS Options, click Next button::<br />
+<img src="https://i.imgur.com/53P06A4.png" height="70%" width="70%" alt="Run installer"/>
 <br />
-Click Install button to begin the installation:<br />
-<img src="https://i.imgur.com/xewkZ42.png" height="40%" width="40%" alt="Run installer"/>
+Since this is a new setup, we will select Add new forest and provide a Root domain name:<br />
+<img src="https://i.imgur.com/2E5g4K3.png" height="70%" width="70%" alt="Run installer"/>
 <br />
 Let it do it's thing:<br />
 <img src="https://i.imgur.com/auTZc1z.png" height="40%" width="40%" alt="Run installer"/>
