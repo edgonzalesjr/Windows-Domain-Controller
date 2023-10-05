@@ -68,11 +68,17 @@ Read the Review Options and click Next button:<br />
 Read the Prerequisites Check and click Install button:<br />
 <img src="https://i.imgur.com/DGpc9yY.png" height="70%" width="70%" alt="Run installer"/>
 <br />
-Let the installation run:<br />
+Let the installation run and wait for it to finish:<br />
 <img src="https://i.imgur.com/b9VSSVK.png" height="70%" width="70%" alt="Run installer"/>
 <br />
-When the installation finished, :<br />
+When the installation finished, Open Server Manager:
 <img src="https://i.imgur.com/LXmnMtb.png" height="70%" width="70%" alt="Run installer"/>
+<br />
+In Server Manager, Click Tools>Active Directory Users and Computers:
+<img src="https://i.imgur.com/lIZAqTy.png" height="70%" width="70%" alt="Run installer"/>
+<br />
+In Active Directory Users and Computers, you may Create User Credentials to login to Domain:
+<img src="https://i.imgur.com/xvybhKY.png" height="70%" width="70%" alt="Run installer"/>
 <br />
 
 
