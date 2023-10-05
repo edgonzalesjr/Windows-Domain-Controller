@@ -44,6 +44,9 @@ Click Install button to confirm installation selections:<br />
 Let the Installation progress run:<br />
 <img src="https://i.imgur.com/BqshACE.png" height="70%" width="70%" alt="Run installer"/>
 <br />
+When the installation succeeded, click Promote this server to a domain controller:<br />
+<img src="https://i.imgur.com/jaNOtSK.png" height="70%" width="70%" alt="Run installer"/>
+<br />
 
 <h2>Program walk-through:</h2>
 
