@@ -47,6 +47,9 @@ Let the Installation progress run:<br />
 When the installation succeeded, click Promote this server to a domain controller:<br />
 <img src="https://i.imgur.com/jaNOtSK.png" height="70%" width="70%" alt="Run installer"/>
 <br />
+In Deployment Configuration, Click the radio button Add a new forest, Specify and type a desired Root domain name:<br />
+<img src="https://i.imgur.com/2E5g4K3.png" height="70%" width="70%" alt="Run installer"/>
+<br />
 
 <h2>Program walk-through:</h2>
 
