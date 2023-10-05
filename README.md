@@ -81,13 +81,10 @@ In Active Directory Users and Computers, you may Create User Credentials to logi
 <img src="https://i.imgur.com/xvybhKY.png" height="70%" width="70%" alt="Run installer"/>
 <br />
 
-
 <h2>Program walk-through:</h2>
 
 <p align="center">
- Now let's host some operating system, in this case we'll try Ubuntu Desktop.
-<p align="center">
-While Virtualbox is running, Click the New button: <br/>
+ Now let's create user to login in our Domain, In Active Directory Users and Computers:<br/>
 <img src="https://i.imgur.com/wlOPsJz.png" height="60%" width="60%" alt="Run installer"/>
 <br />
 <br />
