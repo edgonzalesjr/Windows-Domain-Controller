@@ -50,6 +50,22 @@ When the installation succeeded, click Promote this server to a domain controlle
 In Deployment Configuration, Click the radio button Add a new forest, Specify and type a desired Root domain name:<br />
 <img src="https://i.imgur.com/2E5g4K3.png" height="70%" width="70%" alt="Run installer"/>
 <br />
+In Domain Controller Options, Specify and type a desired Directory Services Restore Mode Password:<br />
+<img src="https://i.imgur.com/WqvnHRw.png" height="70%" width="70%" alt="Run installer"/>
+<br />
+Leave the default options in DNS Options and click Next button:<br />
+<img src="https://i.imgur.com/53P06A4.png" height="70%" width="70%" alt="Run installer"/>
+<br />
+Leave the default options in Additional Options and click Next button:<br />
+<img src="https://i.imgur.com/xvXcYii.png" height="70%" width="70%" alt="Run installer"/>
+<br />
+Leave the default options in Paths and click Next button:<br />
+<img src="https://i.imgur.com/7J7jcHl.png" height="70%" width="70%" alt="Run installer"/>
+<br />
+Read the Review Options and click Next button:<br />
+<img src="https://i.imgur.com/jOMhKMX.png" height="70%" width="70%" alt="Run installer"/>
+<br />
+
 
 <h2>Program walk-through:</h2>
 
