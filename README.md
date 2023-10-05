@@ -65,6 +65,15 @@ Leave the default options in Paths and click Next button:<br />
 Read the Review Options and click Next button:<br />
 <img src="https://i.imgur.com/jOMhKMX.png" height="70%" width="70%" alt="Run installer"/>
 <br />
+Read the Prerequisites Check and click Install button:<br />
+<img src="https://i.imgur.com/DGpc9yY.png" height="70%" width="70%" alt="Run installer"/>
+<br />
+Let the installation run:<br />
+<img src="https://i.imgur.com/b9VSSVK.png" height="70%" width="70%" alt="Run installer"/>
+<br />
+When the installation finished, :<br />
+<img src="https://i.imgur.com/LXmnMtb.png" height="70%" width="70%" alt="Run installer"/>
+<br />
 
 
 <h2>Program walk-through:</h2>
